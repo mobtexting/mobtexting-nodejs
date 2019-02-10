@@ -1,0 +1,16 @@
+{
+  "name": "mobtexting-nodejs",
+  "version": "1.0.0",
+  "description": "nodejs plugin to send sms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobtexting",
+    "sms",
+    "api"
+  ],
+  "author": "vishalknishad",
+  "license": "ISC"
+}
